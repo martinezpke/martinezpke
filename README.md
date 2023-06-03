@@ -6,9 +6,10 @@
 <div>
     <img src="https://img.shields.io/github/followers/martinezpke?style=social"/>
 </div>
-
+<br>
+<br>
 <div align="center"> 
-    <h1><img src="./img/handshake.webp?raw=true" width="30px"/> ¡Hi, I'm $\normalsize\color{rgb(17, 0, 158)}{\textsf{Kevin Martinez}}$</h1>
+    <p><img src="./img/handshake.webp?raw=true" width="30px"/> ¡Hi, I'm $\normalsize\color{rgb(17, 0, 158)}{\textsf{Kevin Martinez}}$</p>
 </div>
 
 <br>
