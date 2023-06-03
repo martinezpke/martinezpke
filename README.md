@@ -5,6 +5,8 @@
 </div>
 <div>
     <img src="https://img.shields.io/github/followers/martinezpke?style=social"/>
+    <img src="https://img.shields.io/github/stars/martinezpke?style=social"/>
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCHoRIuNa_86n8Dui7P7Si4A?style=social" />
 </div>
 <br>
 <br>
