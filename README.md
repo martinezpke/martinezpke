@@ -18,3 +18,6 @@
     <a href="mailto:martinezpke26@gmail.com"><p>📧 martinezpke26@gmail.com</p></a>
     <a href="https://www.linkedin.com/in/kevin-martinez-palmieri-130910271/" alt="Mi linkedin"><img src="https://img.shields.io/badge/Linkedin-0072b1?logo=linkedin&logoColor=white&style=for-the-badge"></a>
 </div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=martinezpke&theme=tokyonight-duo&hide_border=verdadero&border_radius=2.5)](https://git.io/streak-stats)
+
