@@ -1,15 +1,16 @@
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+       alt="snake" />
+</div>
+<div>
+    <img src="https://img.shields.io/github/followers/martinezpke?style=social"/>
 </div>
 
 <div align="center"> 
     <h1><img src="./img/handshake.webp?raw=true" width="30px"/> ¡Hi, I'm $\normalsize\color{rgb(17, 0, 158)}{\textsf{Kevin Martinez}}$</h1>
 </div>
-<div>
-    <img src="https://img.shields.io/github/followers/martinezpke?style=social"/>
-</div>
+
 <br>
 <p align="center"> $\normalsize\color{rgb(17, 0, 158)}{\textsf{Fullstack}}$ Web Developer. I am currently learning $\normalsize\color{rgb(17, 0, 158)}{\textsf{React}}$ for Front-End, in case of Back-End I work with $\normalsize\color{rgb(17, 0, 158)}{\textsf{Flack}}$ and $\normalsize\color{rgb(17, 0, 158)}{\textsf{Django}}$</p>
 <p align="center">I am an organized, creative and proactive person. I consider teamwork as important and I am a lover of technology.</p>
