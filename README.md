@@ -6,7 +6,7 @@
 <div>
     <img src="https://img.shields.io/github/followers/martinezpke?style=social"/>
     <img src="https://img.shields.io/github/stars/martinezpke?style=social"/>
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCHoRIuNa_86n8Dui7P7Si4A?style=social" />
+    <a href="https://www.youtube.com/channel/UCHoRIuNa_86n8Dui7P7Si4A"><img src="https://img.shields.io/youtube/channel/subscribers/UCHoRIuNa_86n8Dui7P7Si4A?style=social" /></a>
 </div>
 <br>
 <br>
