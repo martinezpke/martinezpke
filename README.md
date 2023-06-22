@@ -40,7 +40,7 @@
 
 <div align="center"> 
   <img  src="http://github-readme-streak-stats.herokuapp.com?user=martinezpke&theme=tokyonight-duo&border_radius=2.5&card_width=500"/>
-  <!-- <img  src="https://github-readme-stats.vercel.app/api?username=martinezpke&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true"/> -->
+  <img  src="https://github-readme-stats.vercel.app/api?username=martinezpke&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true"/>
   
 </div>
 
